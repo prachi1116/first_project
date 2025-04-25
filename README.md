@@ -1,1 +1,1 @@
-# first_project
+# jewellery_store
